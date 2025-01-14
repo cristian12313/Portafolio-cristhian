@@ -15,7 +15,7 @@ Este portafolio combina habilidades frontend y backend:
 
 ---
 
-### 2. [Desicloth](https://github.com/cristian12313/desicloth.github.io)
+### 2. Desicloth (https://github.com/cristian12313/desicloth.github.io)
 - **Descripción:** Una plataforma que permite personalizar ropa y calzado.  
 - **Tecnologías:** HTML5, CSS3.  
 - **Características:**  
@@ -24,7 +24,7 @@ Este portafolio combina habilidades frontend y backend:
 
 ---
 
-### 3. [Ability Help](https://github.com/cristian12313/cristian12313.githud.io)
+### 3. Ability Help (https://github.com/cristian12313/cristian12313.githud.io)
 - **Descripción:** Una herramienta para desarrollar habilidades interpersonales y conectar con una comunidad de apoyo.  
 - **Tecnologías:** HTML5, CSS3.  
 - **Características:**  
