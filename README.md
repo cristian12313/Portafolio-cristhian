@@ -15,12 +15,13 @@ Este portafolio combina habilidades frontend y backend:
 
 ---
 
-### 2. Desicloth (https://github.com/cristian12313/desicloth.github.io)
-- **Descripción:** Una plataforma que permite personalizar ropa y calzado.  
-- **Tecnologías:** HTML5, CSS3.  
-- **Características:**  
-  - Página de inicio interactiva.  
-  - Navegación simple e intuitiva.  
+### 2. Predicción del Costo del Flete
+Aplicación para el sector de importaciones marítimas que predice el costo de flete, combinando habilidades frontend y backend:
+- **Frontend (https://github.com/cristian12313/TP1FRONT):**  
+  - React con TypeScript y Vite.  
+- **Backend (https://github.com/serguz201/TP1BACK):**  
+  - Python con XGBoost para el modelo predictivo.  
+  - Docker para el despliegue.  
 
 ---
 
