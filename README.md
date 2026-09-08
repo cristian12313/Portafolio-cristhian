@@ -5,8 +5,8 @@ Soy Cristhian Pacherrez, estudiante de ingeniería de sistemas. Aquí encontrar�
 ### 1. [App Help]
 Este portafolio combina habilidades frontend y backend:
 
-![App Help Screenshot 1](Captura%20de%20pantalla%202026-09-08%20112814.png)
 ![App Help Screenshot 2](Captura%20de%20pantalla%202026-09-08%20112838.png)
+![App Help Screenshot 1](Captura%20de%20pantalla%202026-09-08%20112814.png)
 
 - **Frontend (https://github.com/cristian12313/FrontEndAppHelp/tree/master):**  
   - HTML5 para la estructura.  
