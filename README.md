@@ -21,6 +21,10 @@ Este portafolio combina habilidades frontend y backend:
 
 ### 2. Predicción del Costo del Flete
 Aplicación para el sector de importaciones marítimas que predice el costo de flete, combinando habilidades frontend y backend:
+
+![Predicción del Costo del Flete - Vista 1](Captura%20de%20pantalla%202026-09-08%20112245.png)
+![Predicción del Costo del Flete - Vista 2](Captura%20de%20pantalla%202026-09-08%20112310.png)
+
 - **Frontend (https://github.com/cristian12313/TP1FRONT):**  
   - React con TypeScript y Vite.  
 - **Backend (https://github.com/serguz201/TP1BACK):**  
@@ -30,7 +34,10 @@ Aplicación para el sector de importaciones marítimas que predice el costo de f
 ---
 
 ### 3. Ability Help (https://github.com/cristian12313/cristian12313.githud.io)
-- **Descripción:** Una herramienta para desarrollar habilidades interpersonales y conectar con una comunidad de apoyo.  
+- **Descripción:** Una herramienta para desarrollar habilidades interpersonales y conectar con una comunidad de apoyo.
+
+![Ability Help Screenshot 1](Captura%20de%20pantalla%202026-09-08%20112654.png)
+
 - **Tecnologías:** HTML5, CSS3.  
 - **Características:**  
   - Diseño profesional con un menú de navegación claro.  
