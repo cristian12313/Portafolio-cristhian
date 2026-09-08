@@ -1,6 +1,6 @@
 # Portafolio-cristhian
 
-Soy Cristhian Pacherrez, estudiante de ingeniería de sistemas. Aquí encontrarás algunos de los proyectos en los que he trabajado.
+Soy Cristhian Pacherrez, de la carrera de ingeniería de sistemas. Aquí encontrarás algunos de los proyectos en los que he trabajado.
 
 ### 1. [App Help]
 Este portafolio combina habilidades frontend y backend:
