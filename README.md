@@ -6,7 +6,7 @@ Soy Cristhian Pacherrez, de la carrera de ingeniería de sistemas. Aquí encontr
 Este portafolio combina habilidades frontend y backend:
 
 ![App Help Screenshot 2](img/Captura%20de%20pantalla%202026-09-08%20112838.png)
-![App Help Screenshot 1](Captura%20de%20pantalla%202026-09-08%20112814.png)
+![App Help Screenshot 1](img/Captura%20de%20pantalla%202026-09-08%20112814.png)
 
 - **Frontend (https://github.com/cristian12313/FrontEndAppHelp/tree/master):**  
   - HTML5 para la estructura.  
@@ -22,8 +22,8 @@ Este portafolio combina habilidades frontend y backend:
 ### 2. Predicción del Costo del Flete
 Aplicación para el sector de importaciones marítimas que predice el costo de flete, combinando habilidades frontend y backend:
 
-![Predicción del Costo del Flete - Vista 1](Captura%20de%20pantalla%202026-09-08%20112310.png)
-![Predicción del Costo del Flete - Vista 2](Captura%20de%20pantalla%202026-09-08%20112654.png)
+![Predicción del Costo del Flete - Vista 1](img/Captura%20de%20pantalla%202026-09-08%20112310.png)
+![Predicción del Costo del Flete - Vista 2](img/Captura%20de%20pantalla%202026-09-08%20112654.png)
 
 - **Frontend (https://github.com/cristian12313/TP1FRONT):**  
   - React con TypeScript y Vite.  
@@ -35,7 +35,7 @@ Aplicación para el sector de importaciones marítimas que predice el costo de f
 
 ### 3. Ability Help (https://github.com/cristian12313/cristian12313.githud.io)
 
-![Ability Help Screenshot 1](Captura%20de%20pantalla%202026-09-08%20112245.png)
+![Ability Help Screenshot 1](img/Captura%20de%20pantalla%202026-09-08%20112245.png)
 
 - **Descripción:** Una herramienta para desarrollar habilidades interpersonales y conectar con una comunidad de apoyo.
 - **Tecnologías:** HTML5, CSS3.
